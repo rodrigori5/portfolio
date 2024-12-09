@@ -36,7 +36,7 @@ const Navbar = () => {
           </Link>
         </div>
           <div className="right-side">
-            <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125}>Home</ReactScrollLink>
+            <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125}>Início</ReactScrollLink>
             <ReactScrollLink to="about" spy={true} smooth={true} offset={-125}>Sobre</ReactScrollLink>
             <ReactScrollLink to="projects" spy={true} smooth={true} offset={-125}>Projetos</ReactScrollLink>\
             <a href="/rodrigoCV89-PT-BR.pdf" className="resume-link">Currículo</a>
@@ -53,7 +53,7 @@ const Navbar = () => {
             <nav>
               <ol>
                 <li>
-                  <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Home</ReactScrollLink>
+                  <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Início</ReactScrollLink>
                 </li>
                 <li>
                   <ReactScrollLink to="about" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Sobre</ReactScrollLink>
