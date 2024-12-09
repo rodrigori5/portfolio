@@ -32,14 +32,14 @@ const Navbar = () => {
             href={`/`}
             passHref
           >
-            <h1 className="nav-title">Joshua Brigati</h1>
+            <h1 className="nav-title">Rodrigo Nascimento Machado</h1>
           </Link>
         </div>
           <div className="right-side">
-            <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125}>Main</ReactScrollLink>
-            <ReactScrollLink to="about" spy={true} smooth={true} offset={-125}>About</ReactScrollLink>
-            <ReactScrollLink to="projects" spy={true} smooth={true} offset={-125}>Projects</ReactScrollLink>\
-            <a href="/JoshuaBrigati-Resume.pdf" className="resume-link">Resume</a>
+            <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125}>Home</ReactScrollLink>
+            <ReactScrollLink to="about" spy={true} smooth={true} offset={-125}>Sobre</ReactScrollLink>
+            <ReactScrollLink to="projects" spy={true} smooth={true} offset={-125}>Projetos</ReactScrollLink>\
+            <a href="/rodrigoCV89-PT-BR.pdf" className="resume-link">Currículo</a>
         </div>
       </header>
       <div className="mobile-header">
@@ -62,7 +62,7 @@ const Navbar = () => {
                   <ReactScrollLink to="projects" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Projects</ReactScrollLink>
                 </li>
               </ol>
-              <a href="/JoshuaBrigati-Resume.pdf" className="resume-link">Resume</a>
+              <a href="/rodrigoCV89-PT-BR.pdf" className="resume-link">Resume</a>
             </nav>
           </aside>
         </div>
