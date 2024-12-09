@@ -7,31 +7,26 @@ const About = () => {
       <div className='about-inner'>
         <article className='top-left'>
           <div className="cavalier-content">
-            <h1>Past Experience</h1>
+            <h1>Experiência</h1>
             <p>
-              I have over <bold>4</bold> years experience as a <bold>Software Engineer</bold>. My first job was as a <bold>Software Engineer Intern</bold> at a Blockchain company where I created multiple Full-Stack applications to help internal monitoring.
-              Next I was a <bold>Junior Front-End Developer</bold> where I developed software for Staples associates.
-              Currently I am a <bold>Full-Stack Software Engineer</bold> at a startup where I have been for the last <bold>2</bold> years.
+              Sou desenvolvedor web com foco em PHP, CSS, JS e mySQL, atualmente estou estagiando no Instituto de Previdência do Estado do Rio Grande do Sul. No meu dia a dia, sou responsável pelo desenvolvimento e manutenção de websites, buscando sempre entregar soluções eficientes e funcionais.
+              Gosto de trabalhar em equipe, aprender novas tecnologias e compartilhar conhecimentos. Acredito que a diversidade de perspectivas e experiências é fundamental para a inovação e a qualidade dos projetos.
             </p>
           </div>
         </article>
         <article className='middle-right'>
           <div className="cavalier-content">
-            <h1>Languages / Skills</h1>
+            <h1>Formação / Cursos</h1>
             <p>
-              <bold>Javascript</bold> is my main language with <bold>ReactJS</bold> being my perfered <bold>Front-End</bold> framework. I love it.
-              My favorite stack is <bold>Javascript</bold>, <bold>ReactJS</bold>, <bold>SCSS</bold>, <bold>NodeJS</bold> (<bold>GraphQL</bold> is good too), <bold>MongoDB</bold>.
-              A list of my frameworks and languages is:
-              <bold> JavaScript</bold>, <bold>ReactJS</bold>, <bold>NextJS</bold>, <bold>AngularJS</bold>, <bold>Angular</bold>, <bold>GraphQL</bold>, <bold>NodeJS</bold>, <bold>HTML</bold>, <bold>CSS</bold>, <bold>SCSS</bold>, <bold>Styled-Components</bold>, <bold>Bootstrap</bold>, <bold>JQuery</bold>.
+            Estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi e sempre busco me atualizar sobre tecnologias e boas práticas de desenvolvimento. Atualmente estou realizando cursos da área como Java Springboot, React com NextJS, Typescript, Laravel e criação de APIs que me permitem entregar mais produtos robustos e escaláveis.
             </p>
           </div>
         </article>
         <article className='bottom-left'>
           <div className="cavalier-content">
-            <h1>Web3</h1>
+            <h1>Soft Skills</h1>
             <p>
-              I have very much enjoyed working on <bold>Web3</bold> projects. I recently completed an NFT project that will have greater detail in the Projects section below.
-              I have knowledge of <bold>Solidity</bold>, <bold>web3.js</bold>, <bold>Ethers.js</bold>, <bold>HardHat</bold>, and can create a full DApp connected to deployed and local Smart Contracts.
+            Gosto de trabalhar em equipe, aprender novas tecnologias e compartilhar conhecimentos. Acredito que a diversidade de perspectivas e experiências é fundamental para a inovação e a qualidade dos projetos..
             </p>
           </div>
         </article>
