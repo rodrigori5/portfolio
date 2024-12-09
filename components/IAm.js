@@ -24,7 +24,7 @@ const IAm = () => {
         </div>
       </div>
       <article className='some-details'>
-        <p>Skilled at bringing designs to life with more than 4 years experience.</p>
+       
         <p>Estou sempre em busca de novos desafios e oportunidades.</p>
       </article>
     </section>

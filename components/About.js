@@ -10,7 +10,6 @@ const About = () => {
             <h1>Experiência</h1>
             <p>
               Sou desenvolvedor web com foco em PHP, CSS, JS e mySQL, atualmente estou estagiando no Instituto de Previdência do Estado do Rio Grande do Sul. No meu dia a dia, sou responsável pelo desenvolvimento e manutenção de websites, buscando sempre entregar soluções eficientes e funcionais.
-              Gosto de trabalhar em equipe, aprender novas tecnologias e compartilhar conhecimentos. Acredito que a diversidade de perspectivas e experiências é fundamental para a inovação e a qualidade dos projetos.
             </p>
           </div>
         </article>
