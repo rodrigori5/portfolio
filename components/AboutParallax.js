@@ -1,16 +1,16 @@
 import { Parallax } from 'react-scroll-parallax';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBitcoin, faBootstrap, faCss3Alt, faGit, faHtml5, faSass, faJsSquare, faReact, faNode, faEthereum } from '@fortawesome/free-brands-svg-icons'
+import { faBitcoin, faCss3Alt, faGit, faHtml5, faSass, faJsSquare, faReact, faNode, faJava, faPhp } from '@fortawesome/free-brands-svg-icons'
 
 const parallaxLogos = [
   {
-    name: 'bootstrap',
-    icon: faBootstrap,
+    name: 'php',
+    icon: faPhp,
     top: '100px',
     left: '-80px',
     translateY: [0, 300],
     speed: -10,
-    height: '1.5em',
+    height: '2.8em',
     color: '#563d7c'
   },
   {
@@ -21,7 +21,7 @@ const parallaxLogos = [
     translateY: [50, 350],
     speed: -10,
     height: '2em',
-    color: ''
+    color: 'white'
   },
   {
     name: 'javascript',
@@ -84,14 +84,14 @@ const parallaxLogos = [
     color: '#CD6799'
   },
   {
-    name: 'ethereum',
-    icon: faEthereum,
+    name: 'java',
+    icon: faJava,
     top: '450px',
     left: '-50px',
     translateY: [0, 500],
     speed: -10,
     height: '2.5em',
-    color: '#343737'
+    color: 'gray'
   },
   {
     name: 'bitcoin',
