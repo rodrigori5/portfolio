@@ -53,16 +53,16 @@ const Navbar = () => {
             <nav>
               <ol>
                 <li>
-                  <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Main</ReactScrollLink>
+                  <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Home</ReactScrollLink>
                 </li>
                 <li>
-                  <ReactScrollLink to="about" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>About</ReactScrollLink>
+                  <ReactScrollLink to="about" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Sobre</ReactScrollLink>
                 </li>
                 <li>
-                  <ReactScrollLink to="projects" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Projects</ReactScrollLink>
+                  <ReactScrollLink to="projects" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Projetos</ReactScrollLink>
                 </li>
               </ol>
-              <a href="/rodrigoCV89-PT-BR.pdf" className="resume-link">Resume</a>
+              <a href="/rodrigoCV89-PT-BR.pdf" className="resume-link">Currículo</a>
             </nav>
           </aside>
         </div>

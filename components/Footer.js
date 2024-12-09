@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer className='footer'>
-      <p>Thanks for checking out my portfolio.</p>
+      <p>Obrigado pela sua atenção.</p>
     </footer>
   )
 }

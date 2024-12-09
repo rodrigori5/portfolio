@@ -18,9 +18,7 @@ const IAm = () => {
           <a href={"https://github.com/rodrigori5"} target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faGithub} size="2x" />
           </a>
-          <a href={"https://codepen.io/JoshuaBriagti"} target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon={faCodepen} size="2x" />
-          </a>
+          
         </div>
       </div>
       <article className='some-details'>
