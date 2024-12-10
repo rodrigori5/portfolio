@@ -12,7 +12,7 @@ const Projects = () => {
             Featured Project
           </p>
           <h3 className="project-title">
-            <a href="https://github.com/rodrigori5/CampingFacilPage" rel="noopener noreferrer" target="_blank">
+            <a href="https://camping-facil-page.vercel.app/" rel="noopener noreferrer" target="_blank">
               Camping Fácil
 
             </a>
@@ -41,7 +41,7 @@ const Projects = () => {
         </div>
         <div className="project-image">
           <a
-            href="https://github.com/rodrigori5/CampingFacilPage"
+            href="https://camping-facil-page.vercel.app/"
             rel="noopener noreferrer"
             target="_blank"
           >
