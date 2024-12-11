@@ -19,7 +19,7 @@ const Projects = () => {
           </h3>
           <div className="project-description">
             <p>
-            Landing page para um aplicativo de camping.
+              Landing page para um aplicativo de camping.
             </p>
           </div>
           <ul className="project-tech-list">
@@ -36,7 +36,7 @@ const Projects = () => {
             {/* <a href="" rel="noopener noreferrer" target="_blank">
               <FontAwesomeIcon icon={faTwitter} size="2x" style={{ height: '1.5em' }} />
             </a> */}
-          
+
           </div>
         </div>
         <div className="project-image">
@@ -47,6 +47,56 @@ const Projects = () => {
           >
             <Image
               src="/campfacil.png"
+              alt="Camping Fácil - Landing Page"
+              width={700}
+              height={438}
+            />
+          </a>
+        </div>
+      </article>
+
+      <article className="project-wrapper">
+        <div className="project-content">
+          <p className="project-overline">
+            Featured Project
+          </p>
+          <h3 className="project-title">
+            <a href="https://editor-bay.vercel.app/" rel="noopener noreferrer" target="_blank">
+              Editor de texto
+
+            </a>
+          </h3>
+          <div className="project-description">
+            <p>
+              Editor de texto simples
+              com image resize.
+            </p>
+          </div>
+          <ul className="project-tech-list">
+
+
+            <li>Javascript</li>
+           
+
+          </ul>
+          <div className="project-links">
+            <a href="https://github.com/rodrigori5/Editor" rel="noopener noreferrer" target="_blank">
+              <FontAwesomeIcon icon={faGithub} size="2x" style={{ height: '1.5em' }} />
+            </a>
+            {/* <a href="" rel="noopener noreferrer" target="_blank">
+              <FontAwesomeIcon icon={faTwitter} size="2x" style={{ height: '1.5em' }} />
+            </a> */}
+
+          </div>
+        </div>
+        <div className="project-image">
+          <a
+            href="https://editor-bay.vercel.app/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <Image
+              src="/editr.png"
               alt="Camping Fácil - Landing Page"
               width={700}
               height={438}
